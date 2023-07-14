@@ -1,5 +1,48 @@
-##[1.1.7] 2021-01-15
+## [2.1.1] 2023-07-13
+
+- Readme update
+
+## [2.1.0] 2023-01-25
+
+- Day 1 task checklist walkthrough added
+- Readme update
+
+## [2.0.1] 2022-10-06
+
+- ZE v2 conformance
+- Readme update
+
+## [2.0.0] 2022-04-28
+
+- Data Editor for Mainframe extension added
+- Abend Analyzer for Mainfame extension added
+- Readme update
+
+## [1.2.4] 2022-03-18
+
+- Readme update
+
+## [1.2.3] 2022-01-03
+
+- Readme update
+
+## [1.2.1] 2021-06-11
+
+- Readme update
+
+## [1.2.0] 2021-06-10
+
+- COBOL Control Flow extension added
+- Readme update
+
+## [1.1.8] 2021-04-19
+
+- Readme update
+
+## [1.1.7] 2021-01-15
+
 - License update
+
 ## [1.1.6] 2020-12-22
 
 - Readme update
